@@ -8,4 +8,8 @@ apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && apt -y i
 
 Tahap 2:
 #wget http://www.rerechanstore.eu.org:8000/install ; chmod +x install ; ./install
-wget 
+```
+wget https://raw.githubusercontent.com/YaddyKakkoii/rerechan/main/setup.sh && chmod +x setup.sh && ./setup sh
+```
+
+done
